@@ -1,0 +1,2 @@
+npm install concurrently
+npx concurrently "node bot1.js" "node bot2.js" "node bot3.js" "node bot4.js" "node bot5.js"

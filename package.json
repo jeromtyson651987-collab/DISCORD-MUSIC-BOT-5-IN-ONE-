@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.19.2",
+    "concurrently": "^9.2.1",
+    "discord.js": "^14.26.2",
+    "play-dl": "^1.9.7",
+    "sodium-native": "^5.1.0",
+    "ws": "^8.20.0"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "bot1.js",
+  "scripts": {
+    "start": "npx concurrently \"node bot1.js\" \"node bot2.js\" \"node bot3.js\" \"node bot4.js\" \"node bot5.js\""
+  }
+}
