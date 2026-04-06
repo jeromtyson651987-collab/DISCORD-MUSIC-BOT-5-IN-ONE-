@@ -120,5 +120,5 @@ client.on('messageCreate', async (message) => {
 });
 
 
-client.login('TOKEN_HERE');
+client.login('MTQ5MDY1NzI5ODA1MjI4ODU5Mg.GKdNTy.EihFLpALZ2cC50rgVAklcZGpAfIABSTyOWeT9I');
 
