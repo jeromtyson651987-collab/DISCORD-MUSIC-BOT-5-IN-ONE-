@@ -119,4 +119,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login('TOKEN_HERE');
+client.login('MTQ5MDY1OTkxMTEzNzIzNTAzNQ.Gp2KK2.4_uKW486ZYs9TRWd8imT1vnwELmh1mAuBQMrT8');
