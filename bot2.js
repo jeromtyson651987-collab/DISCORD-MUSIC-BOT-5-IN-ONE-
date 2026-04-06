@@ -118,4 +118,4 @@ client.on('messageCreate', async (message) => {
         }
     }
 });
-client.login('TOKEN_HERE');
+client.login('MTQ5MDY1OTI5Mjg0MjI5OTQzMg.GjypzQ.fnrQtdU-sW1qTupmMzK690Rya7FIJA9RR_x5PQ');
