@@ -50,7 +50,7 @@ client.on('messageCreate', async (message) => {
 
         connection = conn;
 
-        const filePath = "C:\\Users\\Tyson\\Documents\\discord-5bots\\audio.mp3";
+       const filePath = "audio.mp3";
 
         const ffmpeg = spawn('ffmpeg', [
             '-hide_banner',
